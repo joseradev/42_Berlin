@@ -6,7 +6,7 @@
 /*   By: josrange <joseradev@student.42.fr>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/31 14:52:25 by joseradev         #+#    #+#             */
-/*   Updated: 2024/10/31 14:55:49 by joseradev        ###   ########.fr       */
+/*   Updated: 2024/11/01 11:43:20 by joseradev        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,5 +21,7 @@ int	main(void)
 {
 	ft_putchar('A');
 	ft_putchar('\n');
+
+	return (0);
 }
 */
